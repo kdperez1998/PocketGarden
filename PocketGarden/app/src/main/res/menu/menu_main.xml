@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="io.github.yavski.fabspeeddial.samples.PositionSampleActivity">
+
+    <item
+        android:id="@+id/action_plants"
+        android:icon="@drawable/ic_eco_24px"
+        android:orderInCategory="100"
+        android:title="@string/menu_item_my_plants"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_weather"
+        android:icon="@drawable/ic_wb_sunny_24px"
+        android:orderInCategory="100"
+        android:title="@string/menu_item_weather"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_addPlants"
+        android:icon="@drawable/ic_add_24px"
+        android:orderInCategory="100"
+        android:title="Add Plant"
+        app:showAsAction="never" />
+
+
+</menu>

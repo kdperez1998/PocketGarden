@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PocketGarden</string>
+    <string name="action_settings">Settings</string>
+    <string name="water_button">Water</string>
+
+    <string name="sunday">Sun.</string>
+    <string name="monday">Mon.</string>
+    <string name="tuesday">Tues.</string>
+    <string name="wednesday">Wed.</string>
+    <string name="thursday">Thur.</string>
+    <string name="friday">Fri.</string>
+    <string name="saturday">Sat.</string>
+    <string name="ideal_temp">Ideal Temperature</string>
+    <string name="water_days_title">Watering Schedule</string>
+
+    <string name="main_logo">Pocket Garden Logo</string>
+    <string name="leaf_cluster">Leaf Cluster</string>
+
+    <string name="menu_item_my_plants">My Plants</string>
+    <string name="menu_item_weather">Weather</string>
+
+    <string name="text_field_name">Name</string>
+    <string name="text_field_scientific_name">Scientific Name</string>
+    <string name="text_field_min">Min</string>
+    <string name="text_field_max">Max</string>
+
+</resources>
